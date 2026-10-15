@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Alondra!
 
-<!--
-**alo54/alo54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Engineering student at ITAM, interested
+in algorithms, mathematics, computer architecture,
+and quantitative problem-solving.
 
-Here are some ideas to get you started:
+I represented Mexico at EGOI in 2023 and 2024.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+- Hong Kong Equity Market Analysis
+- COVID-19 News Analysis
+- Humidity Sensor
+
+I enjoy exploring mathematical ideas through code
+and building things from scratch.
